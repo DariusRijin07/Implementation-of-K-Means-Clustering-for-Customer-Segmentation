@@ -74,7 +74,6 @@ plt.legend()
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
 ![expt 10 out 1](https://github.com/user-attachments/assets/36699e47-402f-4b11-9267-57714166da4a)
 ![expt 10 out 2](https://github.com/user-attachments/assets/ca78d579-dbda-4fd1-8158-7dc23c6c36e3)
 ![expt 10 out 3](https://github.com/user-attachments/assets/de8088d5-0735-45b8-b8d9-ff7383cb8f7c)
